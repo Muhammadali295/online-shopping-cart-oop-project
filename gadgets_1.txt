@@ -1,0 +1,4 @@
+301,iphone 13 pro max,250000,200
+302,iphone x,78000,300
+303,iphone xs,82000,300
+304,iphone 11 pro,125000,200

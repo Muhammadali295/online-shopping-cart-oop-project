@@ -1,0 +1,10 @@
+101,safe guard,100,99
+102,lux,120,110
+103,palimo,90,127
+104,dove,150,70
+105,irish spring,90,38
+106,yard soap,90,28
+107,bonus,145,493
+108,areal,150,994
+109,surfexel,150,62
+203,www,23,17
